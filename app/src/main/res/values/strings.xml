@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OmniTool: 3-in-1 Pro</string>
+    <string name="tab_stud">Stud Finder</string>
+    <string name="tab_level">Bubble Level</string>
+    <string name="tab_measure">AR Measure</string>
+    <string name="tab_guides">Safety Guides</string>
+</resources>
